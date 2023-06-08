@@ -1,0 +1,12 @@
+.env
+
+.DS_Store
+ngrok
+ngrok.exe
+
+/node_modules
+
+yarn.lock
+package-lock.json
+*.log
+*.gz
